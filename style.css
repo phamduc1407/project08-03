@@ -303,11 +303,14 @@ a:focus {
 /* Shorthand grid-area: grid-row-start / grid-column-start / grid-row-end / grid-column-end */
 
 .pos-1 {
-	grid-area: 10 / 1 / 26 / 7;
+	grid-area: 12 / 3 / 26 / 8;
+}
+.pos-11 {
+	grid-area: 11 / 8 / 1 / 5;
 }
 
 .pos-2 {
-	grid-area: 1 / 18 / 9 / 27;
+	grid-area: 3 / 19 / 12 / 27;
 }
 
 .pos-3 {
@@ -319,11 +322,11 @@ a:focus {
 }
 
 .pos-5 {
-	grid-area: 17 / 32 / 32 / 38;
+	grid-area: 15 / 31 / 34 / 38;
 }
 
 .pos-6 {
-	grid-area: 20 / 46 / 28 / 51;
+	grid-area: 17 / 43 / 29 / 48;
 }
 
 .pos-7 {
@@ -335,7 +338,7 @@ a:focus {
 }
 
 .pos-9 {
-	grid-area: 40 / 26 / 51 / 32;
+	grid-area: 40 / 27 / 50 / 37;
 }
 
 .pos-10 {
@@ -464,4 +467,5 @@ a:focus {
 	background-size: 80px !important;
    background-image: url('img/pause.png')!important;
 }
+
 
